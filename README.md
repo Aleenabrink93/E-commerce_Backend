@@ -18,4 +18,5 @@ This app allows you search all products or any products by their IDs, as well as
 
 ## Preview
 
+https://github.com/Aleenabrink93/E-commerce_Backend/assets/126618768/2f193fc7-8bc0-4234-8b87-ebc25e57e00d
 
